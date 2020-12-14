@@ -1,1 +1,1 @@
-# responsive-accordion
+# schedules app
